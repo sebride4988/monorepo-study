@@ -1,10 +1,10 @@
 {
   "name": "@sebride4988/monorepo-react",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "repository": "git@github.com:sebride4988/monorepo-react.git",
   "author": "sebride4988 <sebride4988@gmail.com>",
   "dependencies": {
-    "@sebride4988/function-utils": "^1.0.8",
+    "@sebride4988/function-utils": "^1.0.9",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
