@@ -29,5 +29,6 @@
     "rollup-plugin-peer-deps-external": "^2.2.4",
     "tslib": "^2.1.0",
     "typescript": "^4.1.3"
-  }
+  },
+  "gitHead": "5ab3fc9577508c7d385efc12278e819487fd0b84"
 }
